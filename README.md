@@ -12,17 +12,17 @@ This project was created and published by me as part of my learnings at Lighthou
 
 **Install it:**
 
-`npm install abiramitoronto/lotide`
+`npm install @abiramitoronto/lotide`
 
 **Require it:**
 
-`const _ = require('abiramitoronto/lotide');`
+`const _ = require('@abiramitoronto/lotide');`
 
 **Call it:**
-`const results = _.head([1, 2, 3]) // => 1`
-`const results = _.tail([1, 2, 3]) // => [2, 3]`
-`const results = _.middle([1, 2, 3]) // => 2`
-`const results = _.eqArrays([1, 2, 3],[1, 2, 3]) // => true`
+* `const results = _.head([1, 2, 3]) // => 1`
+* `const results = _.tail([1, 2, 3]) // => [2, 3]`
+* `const results = _.middle([1, 2, 3]) // => 2`
+* `const results = _.eqArrays([1, 2, 3],[1, 2, 3]) // => true`
 
 ## Documentation
 
