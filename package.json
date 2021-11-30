@@ -1,6 +1,6 @@
 {
-  "name": "abiramitoronto/lotide",
-  "version": "1.0.0",
+  "name": "@abiramitoronto/lotide",
+  "version": "1.0.1",
   "description": "These projects are created as part of LightHouse Labs",
   "main": "assertArraysEqual.js",
   "directories": {
